@@ -3,4 +3,4 @@
 
 some spring cloud demonstration
 
-more about is [here](https://github.com/liaokailin/springcloud/tree/master/note)
+more about is [here](https://github.com/Indirali/SpringCloud/tree/master/note)
